@@ -1,0 +1,28 @@
+name: "❓ Ask a question"
+description: Stuck on something? Ask here. No question is too basic.
+title: "[Question] "
+labels: ["question"]
+body:
+  - type: input
+    id: topic
+    attributes:
+      label: Which session, lab or topic is this about?
+      placeholder: "Networking lab"
+  - type: textarea
+    id: question
+    attributes:
+      label: What is your question?
+    validations:
+      required: true
+  - type: textarea
+    id: tried
+    attributes:
+      label: What have you tried?
+      description: Remove passwords, tokens, personal data and real targets first.
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Before you submit
+      options:
+        - label: I have removed passwords, keys, tokens and private information, and my question is about a lab built for practice or my own system
+          required: true

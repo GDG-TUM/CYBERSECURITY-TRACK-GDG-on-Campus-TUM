@@ -1,0 +1,59 @@
+- [🏠 Home](/README.md)
+- [⚖️ Rules of Engagement](/ETHICS-AND-RULES.md)
+- [🚀 Getting Started](/GETTING-STARTED.md)
+- [❓ FAQ](/FAQ.md)
+- [📋 Open Items](/OPEN-ITEMS.md)
+
+- **ℹ️ About**
+  - [Framework and Badges](/about/framework-and-badges.md)
+  - [Team and Roles](/about/team-and-roles.md)
+  - [Success Metrics](/about/success-metrics.md)
+  - [Risks and Fallbacks](/about/risks-and-fallbacks.md)
+
+- **🗓️ Plan**
+  - [13-Week Roadmap](/roadmap/semester-roadmap.md)
+  - [Missions, Clinics and Challenges](/engagement/README.md)
+
+- **🧭 Learn**
+  - [Learning Path](/learning-path/README.md)
+    - [1. Discover](/learning-path/01-discover.md)
+    - [2. Foundations](/learning-path/02-foundations.md)
+    - [3. Practice](/learning-path/03-practice.md)
+    - [4. Build](/learning-path/04-build.md)
+    - [5. Mentor](/learning-path/05-mentor.md)
+  - [Session Bank](/sessions/README.md)
+    - [Phishing detective](/sessions/would-you-survive-a-phishing-attack.md)
+    - [Your Phone Is a Crime Scene](/sessions/your-phone-is-a-crime-scene.md)
+    - [Strong passwords](/sessions/the-password-you-think-is-strong-isnt.md)
+    - [Behind the Wi-Fi](/sessions/behind-the-wi-fi.md)
+    - [CSI: Cyber](/sessions/csi-cyber-investigate-the-incident.md)
+    - [Cybersecurity on Your CV](/sessions/cybersecurity-on-your-cv.md)
+    - [Build It. Break It. Secure It.](/sessions/build-it-break-it-secure-it.md)
+    - [Cyber Escape Room](/sessions/cyber-escape-room.md)
+  - [Labs](/labs/README.md)
+    - [Networking lab](/labs/networking-lab.md)
+    - [Linux lab](/labs/linux-lab.md)
+    - [Web fundamentals lab](/labs/web-fundamentals-lab.md)
+    - [Wireshark and logs](/labs/wireshark-and-log-investigation.md)
+    - [Beginner web security lab](/labs/beginner-web-security-lab.md)
+    - [Beginner CTF](/labs/beginner-ctf.md)
+
+- **🛠️ Build**
+  - [Projects and Write-ups](/projects/README.md)
+  - [Cyber × Web Project](/projects/cyber-x-web/README.md)
+  - [Write-up Template](/projects/writeup-template.md)
+  - [Showcase](/projects/showcase.md)
+  - [Members](/members/README.md)
+
+- **📚 Resources**
+  - [All Resources](/resources/README.md)
+  - [Free Resources](/resources/free-resources.md)
+  - [Account and Phone Safety](/resources/account-and-phone-safety-checklist.md)
+  - [Phishing Red Flags](/resources/phishing-red-flags.md)
+  - [Secure Project Checklist](/resources/secure-project-checklist.md)
+  - [Glossary](/resources/glossary.md)
+  - [Certifications](/resources/certifications.md)
+  - Cheat sheets
+    - [Linux](/resources/cheatsheets/linux.md)
+    - [Networking](/resources/cheatsheets/networking.md)
+    - [Wireshark](/resources/cheatsheets/wireshark.md)

@@ -1,0 +1,37 @@
+name: "📝 Write-up submission"
+description: Submit a lab or project write-up for the showcase
+title: "[Write-up] "
+labels: ["writeup"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Title
+    validations:
+      required: true
+  - type: input
+    id: platform
+    attributes:
+      label: Platform or project
+      placeholder: "TryHackMe, PortSwigger, picoCTF, club lab, Cyber x Web..."
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link to your write-up (pull request or file)
+  - type: textarea
+    id: learned
+    attributes:
+      label: What did you learn?
+    validations:
+      required: true
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: Rules check
+      options:
+        - label: This was done in a lab built for it, on my own system, or with written permission
+          required: true
+        - label: It contains no credentials, personal data, real targets or copied answers
+          required: true

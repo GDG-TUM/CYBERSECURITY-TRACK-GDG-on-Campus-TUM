@@ -1,0 +1,48 @@
+name: "💬 Session or lab feedback"
+description: Tell us how a session or lab went
+title: "[Feedback] "
+labels: ["feedback"]
+body:
+  - type: dropdown
+    id: which
+    attributes:
+      label: Which session or lab?
+      options:
+        - Would You Survive a Phishing Attack?
+        - Your Phone Is a Crime Scene
+        - The Password You Think Is Strong... Isn't
+        - Behind the Wi-Fi
+        - CSI - Cyber
+        - Cybersecurity on Your CV
+        - Build It. Break It. Secure It.
+        - Cyber Escape Room
+        - Networking lab
+        - Linux lab
+        - Web fundamentals lab
+        - Wireshark and log investigation
+        - Beginner web security lab
+        - Beginner CTF
+        - Cyber Clinic
+        - Other
+    validations:
+      required: true
+  - type: dropdown
+    id: pace
+    attributes:
+      label: Pace
+      options:
+        - Too slow
+        - About right
+        - Too fast
+  - type: textarea
+    id: good
+    attributes:
+      label: What worked well?
+  - type: textarea
+    id: improve
+    attributes:
+      label: What could be better?
+  - type: textarea
+    id: next
+    attributes:
+      label: What would you like to learn next?

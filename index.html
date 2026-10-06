@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Cybersecurity Track | GDG on Campus TUM</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Cybersecurity Track of GDG on Campus, Technical University of Mombasa. From Curious to Capable.">
+  <meta name="theme-color" content="#EA4335">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <style>
+    :root { --theme-color: #EA4335; }
+    .sidebar { border-right: 1px solid #e8eaed; }
+    .app-name-link { font-weight: 700; }
+    .markdown-section { max-width: 920px; }
+    .markdown-section table { display: table; width: 100%; }
+    .markdown-section img { vertical-align: middle; }
+  </style>
+</head>
+<body>
+  <div id="app">Loading Cybersecurity Track...</div>
+
+  <script>
+    window.$docsify = {
+      name: '🔐 Cybersecurity Track',
+      repo: 'GDG-TUM/cybersecurity-track',
+      homepage: 'README.md',
+      loadSidebar: true,
+      subMaxLevel: 2,
+      auto2top: true,
+      relativePath: true,
+      alias: { '/.*/_sidebar.md': '/_sidebar.md' },
+      search: {
+        placeholder: 'Search the Cybersecurity Track',
+        noData: 'No results found.',
+        depth: 3
+      }
+    };
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code@2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-plugin-flexible-alerts"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-mermaid@2/dist/docsify-mermaid.js"></script>
+  <script>mermaid.initialize({ startOnLoad: true });</script>
+</body>
+</html>
