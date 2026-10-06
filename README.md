@@ -15,7 +15,7 @@
 
 ---
 
-> **Track Lead:** _add name and GitHub username_ · **Sessions:** _[TO CONFIRM] day, time, venue_ · **Channel:** _add group link_
+> **Track Lead:** Kimberly and "usernamegithub" · **Sessions:** _[TO CONFIRM] day, time, venue_ · **Channel:** _add group link_
 
 > *"A place where a student can enter with zero experience, discover their interest, build foundational skills, work on a real project, and eventually mentor someone else."*
 
